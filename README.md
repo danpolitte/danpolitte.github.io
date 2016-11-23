@@ -1,2 +1,2 @@
 # danpolitte.github.io
-Github pages
+Personal Github page
